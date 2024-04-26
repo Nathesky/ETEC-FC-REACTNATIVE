@@ -1,5 +1,7 @@
-![Screenshot_1711412101](https://github.com/Nathesky/DailyApp-RN/assets/132522541/927b097b-689c-491a-bb30-0644708cc0ec)
+![Screenshot_1714172769](https://github.com/Nathesky/ETEC-FC-REACTNATIVE/assets/132522541/b0f32f55-d590-4aa9-957d-ed2eac8c1d29)
+
 <br>
-![Screenshot_1711412123](https://github.com/Nathesky/DailyApp-RN/assets/132522541/1d6de62b-18e3-44e8-a99f-069209274350)
+![Screenshot_1714173020](https://github.com/Nathesky/ETEC-FC-REACTNATIVE/assets/132522541/33a408ae-e313-4213-88f0-c1098d51ad9b)
+
 <br>
-![Screenshot_1711412127](https://github.com/Nathesky/DailyApp-RN/assets/132522541/c9182153-0af0-4b56-b5a9-9fb8f3eb608d)
+![Screenshot_1714172772](https://github.com/Nathesky/ETEC-FC-REACTNATIVE/assets/132522541/74afabb9-85b6-4ec8-86bf-88b0874eb8ce)
