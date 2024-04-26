@@ -19,6 +19,7 @@ export default function Alterar({ navigation, route }) {
             return;
         }
 
+        
         updateDoc(doc(collection(firestore, "clubes"), id), {
             clube: clube,
             idolo: idolo,
