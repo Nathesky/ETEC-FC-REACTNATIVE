@@ -46,7 +46,7 @@ export default function CadClube({ navigation }) {
               value={idolo} 
           />
           <TouchableOpacity style={styles.button} onPress={addClube}>
-              <Text style={styles.buttonText}>Alterar</Text>
+              <Text style={styles.buttonText}>Cadastrar</Text>
           </TouchableOpacity>
         </View>
       </ImageBackground>
